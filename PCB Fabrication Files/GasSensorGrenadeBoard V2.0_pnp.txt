@@ -1,0 +1,35 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=GasSensorGrenadeBoard V2.0
+*Date=17:02:26
+*CreatedBy=Fritzing 0.9.1b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;9.78831;-1.95277;90;Bottom;TX
+2;3V;;3.43831;-7.03277;90;Bottom;VCC
+3;;THT;13.5983;-7.03277;90;Bottom;MQ2
+4;;;13.462;-9.3521;0;Bottom;Copper Fill2
+5;;;12.2809;-1.2241;0;Bottom;Copper Fill11
+6;;;9.78831;-32.4243;180;Bottom;NANO
+7;;;4.6609;-6.2025;0;Bottom;Copper Fill9
+8;;;13.3962;-32.709;90;Bottom;TXT1
+9;;;9.8298;-20.6043;0;Bottom;Copper Fill3
+10;;;9.27213;-31.1915;90;Bottom;TXT3
+11;;;13.1572;-2.0242;0;Bottom;Copper Fill12
+12;;;9.8298;-30.9421;0;Bottom;Copper Fill1
+13;;;13.1064;-11.3587;0;Bottom;Via1
+14;;;16.5354;-22.2934;0;Bottom;Copper Fill6
+15;;;2.921;-17.2134;0;Bottom;Copper Fill5
+16;;;1.2954;-17.2134;0;Bottom;Copper Fill4
+17;;;18.161;-22.2934;0;Bottom;Copper Fill7
+18;;;5.66025;-31.2868;90;Bottom;TXT2
+19;;;9.7409;-7.9805;0;Bottom;Copper Fill10
+20;;;4.6609;-7.9805;0;Bottom;Copper Fill8
