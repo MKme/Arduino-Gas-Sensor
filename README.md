@@ -1,4 +1,4 @@
-# Gas-Sensor-Grenade
+# Arduino-Gas-Sensor
 Repository for the Hackaday project Gas Sensor Grenade with Arduino
 
 Gas Sensor For Emergency Workers
