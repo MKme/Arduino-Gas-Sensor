@@ -22,3 +22,6 @@ As a result I have made the code simple whereby it only announces either SAFE or
 annunciation. This is safer because one will treat the area as possibly contaminated with all 3. Untill I can afford a better sensor suite- enjoy!
 
 Eric
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+https://creativecommons.org/licenses/by-nc/4.0/ 
