@@ -1,6 +1,15 @@
 # Arduino-Gas-Sensor
 Repository for the Hackaday project Gas Sensor Grenade with Arduino
+<p align="center">
 
+<br>
+🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
+| 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
+| 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
+Support this project and become a patron on <a href="http://mkme.org/patreon">Eric's Patreon</a>.<br>
+Website, Forum and store are at http://mkme.org <br>
+Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
+</p>
 Gas Sensor For Emergency Workers
 Gas sensor "grenade" that may save lives instead of taking them. The sensor can be thrown into dangerous areas to remotely report levels
 
